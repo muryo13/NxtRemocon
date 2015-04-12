@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NxtRemocon</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="connect">connect</string>
+    <string name="cancel">cancel</string>
+    <string name="up_arrow">↑</string>
+    <string name="right_arrow">→</string>
+    <string name="left_arrow">←</string>
+    <string name="down_arrow">↓</string>
+
+</resources>
